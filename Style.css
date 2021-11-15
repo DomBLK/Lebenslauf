@@ -1,0 +1,41 @@
+h1 {
+    font-family: "Trebuchet MS", Times, serif;
+    font-size: 45px;
+    text-decoration-line: underline;
+}
+
+h2 {
+    font-family:"Trebuchet MS", Times, serif;
+    font-size: 35px;
+    font-weight: 100;
+    color: orange;
+}
+
+
+h3 {
+    font-family: "Trebuchet MS", Times, serif;
+    font-size: 20px;
+    border-bottom: 2px solid orange;   
+    text-align: left;
+}
+
+td {
+    font-family: "Trebuchet MS", Times, serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: #636669;
+    text-align: left;
+}
+
+table {
+    border-spacing: 15px;
+}
+
+body {
+    background-color: white;
+}
+
+a {
+    font-size: 17px;
+    border-spacing: 100px;
+}
