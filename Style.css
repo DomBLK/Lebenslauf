@@ -41,6 +41,7 @@ td {
 
 table {
     border-spacing: 0px;
+    box-shadow: 10px 5px 5px black;
 }
 
 body {
@@ -72,8 +73,4 @@ th.Ü1 {
 
 th#daten {
     border-top: solid orange 2px !important;
-}
-
-section {
-box-shadow: 10px 5px 5px black;
 }
