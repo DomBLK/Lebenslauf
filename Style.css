@@ -71,6 +71,6 @@ th.Ü1 {
     border-right: solid orange 2px;
 }
 
-th.#daten {
+th#daten {
     border-top: solid orange 2px;
 }
