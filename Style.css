@@ -70,6 +70,6 @@ th.Ü1 {
     border-top: solid white 2px;
 }
 
-th.id.daten {
-    border-top: solid #636669 3px;
+#daten {
+    border-top: solid orange 2px;
 }
