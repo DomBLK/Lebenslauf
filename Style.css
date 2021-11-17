@@ -17,7 +17,7 @@ h3 {
     font-size: 20px;
     border-bottom: solid orange 2px;    
     text-align: left;
-    color: white;
+    color: whitesmoke;
     background-color: orange;
     padding-left: 10px !important;
     padding: 0px 0px 0px 0px;
@@ -60,7 +60,7 @@ a {
 }
 td.Ü1 {
 background-color: orange;
-    color: white;
+    color: whitesmoke;
     padding-left: 10px;
 }
 
@@ -70,7 +70,7 @@ th.Ü2 {
 
 th.Ü1 {
     background-color: orange;
-    border-top: solid white 2px;
+    border-top: solid whitesmoke 2px;
     border-right: solid orange 2px;
 }
 
