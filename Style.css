@@ -25,6 +25,7 @@ h3 {
     border-collapse: collapse;
     padding-top: 10px !important;
     padding-bottom: 10px !important;
+    text-decoration: underline;
 }
 
 td {
