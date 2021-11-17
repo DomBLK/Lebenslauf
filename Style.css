@@ -67,7 +67,8 @@ th.Ü2 {
 th.Ü1 {
     background-color: orange;
     border-left: solid #636669 2px;
-    border-top: solid white 2px;
+    border-top: solid #636669 2px;
+    border-right: solid orange 2px;
 }
 
 th.#daten {
