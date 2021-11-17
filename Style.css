@@ -61,12 +61,11 @@ background-color: orange;
 }
 
 th.Ü2 {
-    border-bottom: solid orange 2px;
+    border-top: solid orange 2px;
 }
 
 th.Ü1 {
     background-color: orange;
-    border-bottom: solid white 2px;
     border-left: solid #636669 2px;
     border-top: solid white 2px;
 }
