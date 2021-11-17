@@ -41,8 +41,6 @@ td {
 
 table {
     border-spacing: 0px;
-	box-shadow: 10px 20px 15px silver;
-	border-radius: 20px;
 }
 
 body {
@@ -70,6 +68,8 @@ th.Ü1 {
     background-color: orange;
     border-top: solid white 2px;
     border-right: solid orange 2px;
+    box-shadow: 10px 20px 15px silver;
+    border-radius: 20px;
 }
 
 th#daten {
