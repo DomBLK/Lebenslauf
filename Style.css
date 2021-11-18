@@ -74,6 +74,8 @@ th.Ü1 {
     border-right: solid orange 2px;
 }
 
-h3.daten {
-    border-top: solid orange 2px !important;
+th.bleu {
+    border-top: solid orange 2px;
+    background-color: orange;
+    border-left: orange;
 }
