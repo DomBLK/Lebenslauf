@@ -79,3 +79,10 @@ th.bleu {
     background-color: orange;
     border-left: orange;
 }
+
+td.troi {
+    background-color: orange;
+    color: white;
+    text-align: right;
+    padding-right: 29px;
+}
