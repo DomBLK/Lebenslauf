@@ -1,7 +1,6 @@
 h1 {
     font-family: "Trebuchet MS", Times, serif;
     font-size: 45px;
-    text-decoration-line: underline;
 }
 
 h2 {
@@ -84,5 +83,5 @@ td.troi {
     background-color: orange;
     color: white;
     text-align: right;
-    padding-right: 29px;
+    padding-right: 53px;
 }
